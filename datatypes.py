@@ -48,9 +48,8 @@ print(type(False))
 
 """
 
+# strings are arrays we will talk about arrays later
 
+name = "marley" 
 
-
-
-
-
+print(name[0:2]) 
